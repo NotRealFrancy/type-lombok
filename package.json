@@ -1,0 +1,17 @@
+{
+  "name": "type-lombok",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "rimraf dist & npx tsc"
+  },
+  "dependencies": {
+    "@types/node": "^20.4.2",
+    "rimraf": "^5.0.1",
+    "typescript": "^5.1.6"
+  },
+  "keywords": [],
+  "author": "NotRealFrancy_",
+  "license": "ISC"
+}
